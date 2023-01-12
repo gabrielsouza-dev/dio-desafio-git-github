@@ -1,0 +1,12 @@
+Git:
+
+- Ferramenta de versionamento de código que facilita o desenvolvimento de um código/projeto por repositórios em nossa máquina local que podem ser "empurrados" para um servidor remoto(GitHub).
+- Utiliza um algoritmo de encriptação chamado Sha1 que foi desenvolvido pela NSA, cada alteração em um arquivo gera uma nova chave e permite um controle de código eficiente.
+- Utiliza o conceito de programação orientada a objetos com seus próprios elementos: blobs, trees e commits.
+- Comandos básicos para o dia a dia: git init(cria um novo repositório na máquina local), git add(adiciona arquivos/diretórios que não estavam em seu repositório ou foram alterados e os prepara para fazer parte de um commit) e git commit(prepara todo o seu repositório local para ser "empurrado" para o GitHub)
+
+GitHub:
+
+- Servidor remoto integrado com o Git que permite desenvolvimento colaborativo, também funciona como uma "rede social" entre devs e como ferramenta de seleção de talentos por empresas da área.
+- Utiliza a linguagem de marcação de texto Markdown como base.
+- Muito útil para armazenar nossos projetos a fim de criar um portfólio.
