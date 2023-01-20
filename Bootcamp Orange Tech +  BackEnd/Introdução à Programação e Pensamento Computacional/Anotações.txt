@@ -1,0 +1,220 @@
+Pensamento computacional:
+
+  - Pensar em soluções para problemas que podem ser expressos por meio de um passo a passo onde um humano e uma máquina são capazes de entender, como um algoritmo.
+  - Habilidade generalista e treinável.
+  - Envolve Matemática, Leitura e Escrita.
+
+ 4 pilares base:
+  
+   - Decomposição: Dividir um problema complexo em subproblemas de solução mais simples.
+   - Reconhecimento de padrões: Identificar padrões ou tendências por similaridades e diferenças entre os problemas para encontrar possíveis padrões comportamentais.
+   - Abstração: Tornar generalistas os elementos de um problema que são específicos a ele.
+   - Design de algoritmos: Automatizar, definir passo a passo a solução do problema. Utiliza um processo contínuo onde se unem recursos computacionais e habilidades humanas para resolver os problemas, expressar a solução por algoritmo, realizar testes e analisar a fim de aperfoiçoar a solução original.
+
+ Habilidades complementares:
+
+   - Raciocínio lógico: Pensar de forma estruturada a fim de encontrar encontrar a conclusão ou resolver um problema, uma habilidade que pode ser treinada.
+   - Aperfeiçoamento: A partir de uma solução identificar os pontos que necessitam ser melhorados e refinados. Acarreta a uma otimização no uso de recursos assim como códigos e algoritmos refinados.
+
+Lógica de programação:
+
+  - Utiliza a lógica filosófica(estuda as formas de pensamento estruturado(dedução, indução, hipótese, inferência) e das operações intelectuais que buscam determinar o que é verdadeiro ou não.) juntamente com estruturas da programação como o algoritmo a fim de tornar possível a solução de problemas através de um programa.
+   
+ Técnicas utilizadas:
+
+   - Técnica Linear: Ordenação de elementos por uma única propriedade. Execução sequencial, recursos limitados, única dimensão.
+   - Técnica Estruturada: Organização, disposição e ordem dos elementos essenciais que compõem um corpo(concreto ou abstração). Programas estruturados, manutenção facilitada.
+   - Técnica Modular: Partes que podem ser executadas ao mesmo tempo pois são independentes e controladas por um conjunto de regras. Simplificação, decompõe o problema, verifica o módulo.
+
+Algoritmos:
+
+  - Variáveis: Espaços reservados na memória do computador para armazenar dados que pode assumir qualquer valor dentro da tipagem em que ela for definida, como o valor de x em uma equação matemática. Possuem três tipos: Numérico(Inteiros(correspondem a todos os números positivos e negativos sem casas decimais.) e Reais(Todos os algarismos naturais conhecidos incluindo números com casas decimais.)), Caracter(Todas as letras do alfabeto, símbolos e até números expressos entre aspas.) e Lógico/Booleano(Verdadeiro - 1, Falso - 0).
+   
+   Regras de nomeação de variáveis:
+
+    - Deve ter um ou mais caracteres.
+    - Não deve começar com número.
+    - Sem espaços em branco.
+    - Palavras reservadas são proibidas.
+    - Utilizar caracteres e números.
+
+  - Constantes: Espaços reservados na memória do computador para armazenar dados que permaneceram com os mesmos valores, como o valor de pi.
+
+Intruções primitivas:
+ 
+  - Conjunto de palavras-chave(vocabulário) de uma determinada linguagem de programação que busca processar os dados através de um computador. Utiliza operadores para realizar cálculos matemáticos por meio de variáveis e constantes como o cálculo da area de um círculo.
+
+ Operadores:
+
+   - Podem ser do tipo Binário ou Unário.
+   - + : Representa a operação de manutenção de sinal e retorna números positivos.
+   - - : Representa a operação de inversão de sinal e retorna números negativos.
+   - ↑ : Representa a operação de exponenciação.
+   - / : Representa a operação de divisão e retorna números reais.
+   - div: Representa a operação de divisão e retorna números inteiros.
+   - * : Representa a operação de multiplicação.
+   - + : Representa a operação de adição.
+   - - : Representa a operação de subtração.
+
+ Linguagens de programação:
+
+   - Executa de operações em um computador utilizando palavras-chave que se aproximam de nossa linguagem nativa.
+   - Facilita a expressão de algoritmos em instruções que podem ser interpretadas por um computador.
+
+Estruturas condicionais e operadores:
+
+  - Auxiliam em eventuais tomadas de decisão que são necessárias durante a execução de um programa, como quando precisamos verificar se um aluno foi aproveitado com base em suas notas.
+
+  - Condicional simples: Se a condição é atendida determinada operação é executada, caso contrário o programa é encerrado. 
+  - Condicional composta: Se a condição é atendida determinada operação é executada, caso contrário entra em ação uma exceção definida anteriormente.
+  - Condicional encadeada: Possui duas ou mais condições interligadas, cada uma com sua respectiva operação que é executada caso sejam atendidas e caso todas condições não forem satisfeitas ainda traz uma exceção no fim.
+
+ Operadores lógicos: 
+
+   - Retornam resultados lógicos/booleanos conforme a comparação de condições é executada.
+   - Utilizados para verificações de Verdadeiro ou Falso.
+   - Podem substituir valores de variáveis
+   - Atuam no encadeamento de condições
+
+    - AND: O resultado só será verdadeiro se as duas condições forem verdadeiras, caso contrário será falso.
+    - OR: O resultado só será falso se as duas forem falsas, caso contrário será verdadeiro.
+    - NOT: Operador de negação, irá inverter o resultado da condição.
+
+Estrututas de repetição:
+
+ - Determinadas palvaras-chave que executam repetidamente um trecho de um programa até que as condições de parada predefinidas sejam satisfeitas.
+ - Reduz linhas de código.
+ - Facilita a compreensão.
+ - Reduz erros.
+ - Permite mesclar diferentes seus diferentes tipos. 
+ 
+ Tipos de estruturas de repetição:
+
+  - Enquanto <...> faça <...>: Teste lógico no começo e número de repetições indefinidas.
+  - Repita <...> até: Teste lógico no final e número de repetições indefinidas.
+  - Para <...> de <...> até <...>: Teste lógico no início e número de repetições definidas.
+
+Vetores e matrizes:
+ 
+ - Armazenam valores numéricos(Inteiros e Reais) e textuais(Caracteres).
+ - Reduz linhas de código.
+
+ Vetor: Uma variável dimensionada horizontalmente com um tamanho predeterminado.
+
+ Matriz: Uma tabela formada por linhas e colunas formatadas como l x c, l representa o número de linhas(horizontal) e c o número de colunas(vertical).
+
+  - Coleção de variáveis.
+  - Contíguas em memória.
+  - Índices.
+
+Funções:
+
+ - Blocos de instruções que realizam tarefas específicas.
+ - Compostas por uma definição, nome, invocação e uma variável local que só existe dentro da função enquanto ela for executada.
+ - Recebe e processa os dados retornando um resultado para o programa.
+ - Estrutura o programa em módulos.
+ - Código limpo e eficiente.
+ - Reúso de instruções.
+
+Instruções de entrada/saída:
+
+ - Entrada: Estrutura de palavras reservadas que são responsáveis por receber os dados inseridos pelo usuário através de algum dispositivo como teclado, mouse ou via transferência de arquivos e afins.
+ - Saída: Estrutura de palavras reservadas que realizam a impressão dos dados presentes no sistema em alguma interface de exibição.
+  - Saída programada: Definida anteriormente através de instrução, pode ser condicional(aguarda o dispositivo) ou incondicional(executa sem dependências).
+  - Saída por interrupção: Definida pelos periféricos.
+
+Introdução à linguagem de programação:
+
+ - Conhecer a história da computação é importante pois com base nos pensamentos e pesquisas do passado podemos tirar conclusões que podem nos ajudar a superar os desafios que enfrentamos atualmente.
+ 
+  - 3 mil a.C.: Primeiro dispositivo de cálculo(computação foi criada com base na matemática).
+  - Charles Babbage cria o conceito de software.
+  - Entre 1940 e 1950: Alan Turing, Von Neuman e Claude Shannon se reúnem com 9 matemáticos na escola de cifra e códigos e lançam um Codificador de voz para o governo norte americano, conhecido como Projeto Dilab.
+  - Transcrição de Ada Lovelace que colocou em prática os conceitos de Babbage com os algoritmos, uma nova descoberta que revolucionou o mundo. 
+  - 1946: Durante o Projeto Dilab Neuman e Turing desenvolvem o ACE que foi usado no Segunda Guerra Mundial para decodificar mensagens dos inimigos dos EUA.
+  - 1880: Herman Hollerith criou uma máquina de tabulação que fazia leitura de cartões perfurados e foi utilizado no censo dos Estados Unidos e mais tarde fundaria sua própria empresa que originou a IBM, famosa montadora de computadores.
+  - Entre 1938 e 1944: Primeiros computadores criados utilizando válvulas e depois relés/avanço.
+  - 1943: Colossus que utilizava programação por fios.
+  - 1946: ENIAC, um computador programável com 18 mil válvulas.
+  - 1952: Primeiro computador com programa armazenado é desenvolvido, conhecido como EDVAC.
+  - 1975: Surge a Intel com seu primeiro processador(Intel 8080) e a Microsoft é fundada trazendo ao mundo a Lingugem basic.
+  - 1976: Surge a Apple com o primeiro computador pessoal, o Apple-1.
+  - 1977: Apple II é lançado, introduzindo o conceito de computador All In One(placa-mãe, processador, memórias e armazenamento(CPU) juntamente com monitor, teclado e unidades de disco(disquete) em um só pacote.)
+  - 1980: Apple III chega ao mundo adicionando uma impressora em relação ao seu antecessor.
+  - 1981: IBM abre as portas trazendo seu primeiro computador pessoal, o IBM PC.
+  - 1983: Apple lança o Lisa, primeiro computador a ter mouse e uma interface mas acabou sendo um fracasso de vendas.
+  - 1985: Microsoft lança o Windows 1.0.
+  - 1988: Windows 2000 é lançado.
+  - 2001: Windows XP faz sua estreia.
+
+ Linguagens de programação:
+
+  - 1949: Criado o Assembly, a primeira linguagem de máquina que era de baixo nível e se assemelhava com os números binários que são a "linguagem nativa" dos processadores computacionais.
+  - 1950 à 1959: FORTRAN e COBOL surgem como as primeiras linguagens de programação.
+  - 1959 à 1971: Surge o Machine Learning, os primeiros paradigmas de programação e as linguagens Basic e PASCAL.
+  - 1990 à 1999: Surgem as primeiras linguagens de alto nível como Python e Java.
+  - 2000: Novos conceitos como REST, Swift e GO.
+
+ Problemas computacionais:
+
+  - Problema da vida real que possui uma sequência de passo a passo e pode ter sua solução facilitada pelo uso de um ambiente computacional.
+
+  Problemas de decisão: Ligados a caracter lógico(Sim ou Não) e à ideia de pertencimento(conjuntos de elementos específicos), por exemplo.
+
+  Problemas de busca: Ligados a relacionamento binário, busca de objetos semelhantes, busca por posição, situações recorrentes em teoria de grafos como clique, por exemplo.
+
+  Problemas de otimização: Ligados ao objetivo de maximizar ou minimizar uma função, por exemplo.
+
+ Linguagem de programação:
+
+  - Implementação de um código fonte(conjunto de palavras com regras) utilizando um método padronizado composto de regras sintáticas e semânticas.
+
+Como o computador entende o programa:
+
+ - Linguagem compilada: A máquina de destino traduz o código fonte diretamente assim tornam sua execução mais rápida, eficiente e trazem maior controle sobre alguns aspectos do hardware que auxiliam na performance dos programas. Ex: C++ e Java.
+
+ - Linguagem interpretada: Utiliza um interpretador para ler e executar o código fonte que acaba deixando sua execução mais lenta ao contrário das linguagens compiladas mas apresentam uma maior flexibilidade, recursos como digitação dinâmica e tamanho reduzido de programa. Ex: JavaScript e Python.
+
+Características de um programa: 
+
+ - Boas práticas: Diretrizes que devem ser seguidas no desenvolvimento de programas a fim de possibilitar um melhor controle de qualidade sobre o produto final.
+
+ - Legibilidade: Leitura e compreensão facilitada além de intruções coerentes e estruturas bem definidas.
+
+ - Regidibilidade: Escrita simples, suporte à abstração, reúso do código, uso do operador ++ e do for e instruções coerentes.
+
+ - Confiabilidade: Verificação de tipos, tratamento de exceções, uso de ponteiros e compatibilidade entre compiladores.
+
+ - Custo: Análise de impacto em treinamento, codificação, compilação, execução e infraestrutura.
+
+ Outras características: 
+
+    - Atualizações.
+    - Uso para IA.
+    - Disponibilidade de ferramentas.
+    - Comunidade ativa.
+    - Adoção pelo mercado.
+
+Análises de código:
+
+  - O compilador realiza três tipos de análise nos arquivos de código antes de gerar um arquivo executável e depois executar os resultados.
+
+  Análise léxica: Particiona os elementos em tokens; classifica os elementos em identificadores, palavras reservadas, números e strings; elimina os elementos como caracteres de espaços em branco, comentários e etc.
+
+  Análise sintática: Avalia se o código segue o padrão e estruturas de acordo com a linguagem utilizada.
+
+  Análise semântica: Analisa se o código contém erros de lógica que acaba alterando o resultado que era esperado.
+
+Paradigmas de programação:
+
+ - Forma de resolver problemas de acordo com as características de cada paradigma via linguagem de programação.
+
+  - Procedural: Chamadas sucessivas e procedimentos separados. Ex: Fortran e Lua.
+
+  - Funcional: Instruções baseadas em funções. Ex: JavaScript, Python, Java e Lua.
+
+  - Estruturado: Estrutura de blocos aninhados com ênfase em sequência, também utiliza os conceitos de teste lógico, funções, laços e condições. Dominava o mercado até a chegada do POO, utilizado para resolver problemas simples e diretos e para aprender programação. Ex: C, C++, Java e JavaScript.
+
+  - Computação distribuída: Funções executadas de forma independente. Ex: Ada.
+
+  - Orientação à objeto: Conceito análogo ao mundo real, baseada na utilização de objetos(características específicas(atributos), comportamentos(métodos) e estados) e suas interações, estruturados em classes. Possui quatro pilares: herança(classes filhas podem herdar características de classes mães.), encapsulamento(classes e métodos públicos e atributos privados), polimorfismo(permite operações diferentes para objetos e métodos com características em comum) e abstração(permite a utilização de funções sem precisar entender exatamente como ela funciona.) facilitando assim o reúso de código. Ex: Java, Python, C++ e Lua.

@@ -1,0 +1,55 @@
+Boas Práticas para um desenvolvedor moderno:
+
+  - Primeiro passo ao se desenvolver um software é escolher a plataforma onde será executado: Desktop, Web ou aplicação móvel.
+  - Num ambiente ideal heveria um profissional para cada área de desenvolvimento em uma empresa, na prática se restringe a grandes empresas.
+
+Modelo Cliente-Servidor:
+  
+  - Estrutura de aplicação onde um recurso ou serviço é distribuído entre os fornecedores(servidores) e os requerentes(clientes) utilizando a internet e outras tecnologias como ponte, é a base da Web como conhecemos.
+
+Principais áreas no mundo de TI:
+
+Desenvolvimento:
+
+  Full Stack: Programa tanto a parte visual ou Front End do sotware quanto a parte do "motor" ou Back End, sendo necessário dominar várias tecnologias em abas as partes de dsesenvolvimento.
+
+    Front End: Programa a parte visual de um software por meio de código, geralmente utiliza as tecnologias que formam a base da Web: HTML, CSS e JavaScript.
+
+      - UX Design(User Experience): Profissional que busca aprimorar a usabilidade, acessibilidade e a satisfação do usuário em sua interação com um produto ou serviço.
+      - UI Design(User Interface): Profissional que cria o estilo visual como botões, cores e padrões visuais que auxiliam o usuário a ter uma melhor experiência ao utilizar determinado software.
+      - Ferramentas utilizadas:
+        1. Invision
+        2. Visio
+        3. Adobe XD
+        4. Figma
+ 
+    Back End: Programa todo o "motor" de um software onde o usuário não pode interagir diretamente, geralmente faz a ponte entre os dados que vem do navegador ao banco de dados e vice-versa, utilizando código em linguagens de programação como Java, C# e Python por exemplo.
+  
+  Mobile Android: Utiliza Front End e Back End para a criação de aplicativos para o sistema Android por linguagens de programação como Java e/ou Kotlin.
+
+  Mobile IOS: Desenvolve aplicativos para o sistema IOS por linguagens de programação como SWIFT assim como com a união de Front End e Back End.
+
+  Híbrido(Web): Programa aplicativos que possuem suporte tanto a Android quanto IOS usando linguagens como Ionic, Flutter e React Native.
+
+  Quality Assurance(QA): Profissional que deve ter conhecimento sobre as atividades do projeto bem como habilidade pra analisar cada etapa a fim de assegurar que os padrões de qualidade e os requisitos mínimos serão entregues junto ao produto.
+
+Tecnologias que facilitam a programação:
+
+  - IDE: Software de desenvolvimento integrado que combina ferramentas e uma interface gráfica(GUI) para criar códigos.
+  - Frameworks: Facilitadores que automatizam ações repetitivas permitindo um ganho de tempo e produtividade no processo de codificar softwares. Alguns exemplos: Angular, Laravel e Vue.
+  - API: Sigla de Application Programming Interface(Interface de Programação de Aplicações), age como ponte entre duas aplicações. Pense que você desenvolveu um aplicativo para android e quer integrar a assistente do Google nesse software, você pode usar uma API para resolver isso.
+
+Nuvem privada:
+ 
+ - Segurança da Tecnologia da Informação: Profissional que cuida de toda a parte de protocolos e dispositivos que garantem a proteção de dados a ataques de hackers sejam eles armazenados em hardware físico, redes locais ou em nuvem.
+ - Mão de obra especializada: Profissional que garante suporte tanto a software quanto a hardware de dispositivos computacionais.
+ - Infraestrutura local: Profissional responsável por fornecer conectividade e recursos que sejam necessários para o funcionamento correto dos servidores locais de uma empresa.
+ - Custo elevado com mão de obra.
+
+Nuvem Pública:
+
+ - Dados são armazenados em servidores na nuvem via internet.
+ - Custo reduzido.
+ - Manutenção facilitada.
+ - Uso escalável, ou seja utilize somente quando precisar.
+ - Performance superior.
